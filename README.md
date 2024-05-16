@@ -1,4 +1,4 @@
-# heranca-hibernate
+# Heranca Hibernate
 
 Esse projeto tem o objetivo de demostra a herança do hibernate utilizando tilizando uma Super Classe @MappedSuperclass
 
