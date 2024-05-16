@@ -27,4 +27,8 @@ public class HerancaController {
        // return "teste";
     }
 
+ /*   @GetMapping("/login")
+    public String login() {
+        return "login"; // Nome do arquivo HTML sem extensão
+    }*/
 }
